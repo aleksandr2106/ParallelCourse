@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Calculations.cpp
+c:\users\wsu\source\repos\parallelcoursework\parallelcoursework\calculations.h(14): warning C4091: 'static ': ignored on left of 'Calculations' when no variable is declared
+  ParallelCoursework.cpp
+c:\users\wsu\source\repos\parallelcoursework\parallelcoursework\calculations.h(14): warning C4091: 'static ': ignored on left of 'Calculations' when no variable is declared
+  Generating code
+  All 346 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ParallelCoursework.vcxproj -> C:\Users\wsu\source\repos\ParallelCoursework\x64\Release\ParallelCoursework.exe

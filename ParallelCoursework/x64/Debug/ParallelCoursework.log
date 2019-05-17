@@ -1,0 +1,3 @@
+﻿  ParallelCoursework.cpp
+d:\vi semestr\po\parallelcoursework\parallelcoursework\calculations.h(14): warning C4091: static : пропускается слева от "Calculations", когда ни одна переменная не объявлена
+  ParallelCoursework.vcxproj -> D:\VI Semestr\PO\ParallelCoursework\x64\Debug\ParallelCoursework.exe
