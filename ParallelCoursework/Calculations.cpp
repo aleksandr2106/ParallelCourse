@@ -3,7 +3,7 @@
 #include <math.h>
 
 int Calculations::ColumnsNumber = 10;
-int Calculations::RowsNumber = 1000;
+int Calculations::RowsNumber = 10000;
 
 double Calculations::H = (double) 1 / Calculations::ColumnsNumber;
 double Calculations::T = (double) 1 / Calculations::RowsNumber;
