@@ -2,8 +2,8 @@
 #include "Calculations.h"
 #include <math.h>
 
-int Calculations::ColumnsNumber = 10;
-int Calculations::RowsNumber = 10000;
+int Calculations::ColumnsNumber = 100;
+int Calculations::RowsNumber = 20000;
 
 double Calculations::H = (double) 1 / Calculations::ColumnsNumber;
 double Calculations::T = (double) 1 / Calculations::RowsNumber;
@@ -12,7 +12,7 @@ double Calculations::GetExactResult(double t, double x)
 {
 	return
 		pow(
-			100 * exp(-2 * (x + t)) - 1
+			1000 * exp(-2 * (x + t)) - 1
 			, -0.5);
 }
 
