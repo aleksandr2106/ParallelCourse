@@ -12,8 +12,8 @@ double Calculations::GetExactResult(double t, double x)
 {
 	return
 		pow(
-			2 * exp(-2 * (x + t)) - 1
-			, -1 / 2);
+			100 * exp(-2 * (x + t)) - 1
+			, -0.5);
 }
 
 void Calculations::CalcAndSetApproximateResult(double** matrix, int i, int j)
