@@ -1,3 +1,3 @@
-﻿  Calculations.cpp
+﻿  ParallelCoursework.cpp
 c:\users\admin\documents\github\parallelcourse\parallelcoursework\calculations.h(14): warning C4091: static : пропускается слева от "Calculations", когда ни одна переменная не объявлена
   ParallelCoursework.vcxproj -> C:\Users\Admin\Documents\GitHub\ParallelCourse\x64\Debug\ParallelCoursework.exe

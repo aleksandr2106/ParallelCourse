@@ -2,8 +2,8 @@
 #include "Calculations.h"
 #include <math.h>
 
-int Calculations::ColumnsNumber = 100;
-int Calculations::RowsNumber = 20000;
+int Calculations::ColumnsNumber = 10;
+int Calculations::RowsNumber = 10000;
 
 double Calculations::H = (double) 1 / Calculations::ColumnsNumber;
 double Calculations::T = (double) 1 / Calculations::RowsNumber;
